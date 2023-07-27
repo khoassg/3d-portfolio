@@ -123,7 +123,7 @@ const experiences = [
     company_name: "Tanca",
     icon: tanca,
     iconBg: "#FFFFFF",
-    date: "2020",
+    date: "2019 - 2020",
     points: [
       "Developing and maintaining web applications using React.js, PHP and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -136,7 +136,7 @@ const experiences = [
     company_name: "TMA Solutions",
     icon: tma,
     iconBg: "#FFFFFF",
-    date: "2021",
+    date: "2020 - 2021",
     points: [
       "Developing and maintaining web applications using Angular, Python and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -342,4 +342,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { experiences, projects, services, technologies, testimonials };
